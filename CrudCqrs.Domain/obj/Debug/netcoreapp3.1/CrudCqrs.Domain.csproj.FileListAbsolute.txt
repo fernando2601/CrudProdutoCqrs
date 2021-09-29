@@ -1,0 +1,12 @@
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.deps.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.runtimeconfig.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.runtimeconfig.dev.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.csprojAssemblyReference.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.AssemblyInfo.cs
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Domain\obj\Debug\netcoreapp3.1\CrudCqrs.Domain.genruntimeconfig.cache

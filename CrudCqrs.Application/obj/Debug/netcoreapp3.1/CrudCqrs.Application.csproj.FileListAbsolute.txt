@@ -1,0 +1,17 @@
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Application.deps.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Application.runtimeconfig.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Application.runtimeconfig.dev.json
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Application.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Application.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Infrastructure.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Domain.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\bin\Debug\netcoreapp3.1\CrudCqrs.Infrastructure.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.csprojAssemblyReference.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.AssemblyInfo.cs
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.csproj.CopyComplete
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.dll
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.pdb
+C:\Users\nerif\source\repos\CrudCqrs\CrudCqrs.Application\obj\Debug\netcoreapp3.1\CrudCqrs.Application.genruntimeconfig.cache
